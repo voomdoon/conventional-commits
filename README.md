@@ -3,7 +3,7 @@
 ## syntax
 
 ```
-<type><scope>*<marker>*: <description>
+<type><scope>?<marker>?: <description>
 
 <body>
 
